@@ -87,7 +87,7 @@
          </EnvironmentVariable>
          <EnvironmentVariable
             key = "ApiKey"
-            value = "c36d2ff5011a2045bf4a4a567f8b0e2a"
+            value = "the movie database api key"
             isEnabled = "YES">
          </EnvironmentVariable>
          <EnvironmentVariable
@@ -107,7 +107,7 @@
          </EnvironmentVariable>
          <EnvironmentVariable
             key = "ChatBotApiKey"
-            value = "sk-Ce-8m_AxgO03D7h34mUkfRCddvDKVww1mFBbSKgQ-0T3BlbkFJTAy08P8nDJYLexRO05Aoi_-EnXwf1qpybevztWb_sA"
+            value = "gpt api key"
             isEnabled = "YES">
          </EnvironmentVariable>
       </EnvironmentVariables>
