@@ -1,0 +1,76 @@
+/*
+  Localizable.strings
+  OBSS-Intern
+
+  Created by Mert Saygılı on 29.07.2024.
+  
+*/
+
+"hello" = "Hello";
+"create" = "Create";
+"moviesTitle" = "Movies";
+"searchMovieTitle" = "Discover";
+"favoritesTitle" = "Favorites";
+"profileTitle" = "Profile";
+"unkown" = "Unkown";
+"popularMovies" = "Popular Movies";
+"upcomingMovies" = "Upcoming Movies";
+"hourShort" = "h";
+"minuteShort" = "mn";
+"cast" = "Cast";
+"crew" = "Crew";
+"recommendedMovies" = "Recommended Movies";
+"castMovie" = "Cast Movies";
+"crewMovie" = "Crew Movies";
+"productionCompanies" = "Production Companies";
+"detailPage" = "Detail Page";
+"urlNotFound" = "URL not found";
+"homePageNotFound" = "Home page not found";
+"favorites" = "Favorites";
+"searchTitle" = "Search Movie";
+"searchPlaceholder" = "Search...";
+"profileTitle" = "Profile";
+"profileList" = "List";
+"createList" = "Create New List";
+"displayList" = "Movie List";
+"deviceBrightness" = "Application Theme";
+"deviceLanguage" = "Application Language";
+"generalTitle" = "General";
+"informationTitle" = "Information";
+"contactUs" = "Contact Us";
+"langaugeTitle" = "Language";
+"cancel" = "Cancel";
+"change" = "Change";
+"changeLanguageTitle" = "Change App Language";
+"changeLanguageMessage" = "Are you sure you want to change the app language to %@?";
+"english" = "English";
+"turkish" = "Turkish";
+"chatBot" = "Movie Chat Bot";
+"chatBotPrompt" = "You are a movie bot, here to offer movie recommendations, provide information about film characters, share fun facts about movies, and answer questions related to the world of cinema. Carefully select your suggestions to engage users, and always maintain a polite, friendly, and helpful tone. Provide informative and entertaining content on topics such as film genres, directors, actors, and release dates. Offer recommendations that will enhance the user's movie-watching experience.";
+"writeMessage" = "Write a message...";
+"send" = "Ask";
+"welcomeMessage" = "Welcome to the movie chat bot! How can I help you today?";
+"newSession" = "New Session";
+"enterListName" = "Enter the list name";
+"movieList" = "Movie List";
+"movies" = "movies";
+"listEmpty" = "List is empty";
+"noCustomList" = "You have no custom list";
+"delete" = "Delete";
+"deleteListTitle" = "Delete List";
+"deleteListMessage" = "Are you sure you want to delete this list";
+"haveUWatchedThisMovie" = "Have you watched this movie?";
+"uWillLikeThisMovie" = "You will like this movie";
+"newMovieRecommendation" = "New movie recommendation";
+"thisMovieIsForYou" = "This movie is for you";
+"recommendedMovie" = "Recommended movie";
+"moviesAreWaiting" = "Movies are waiting for you";
+"uDidNotEnterLongTime" = "You haven't logged in for a while. How about discovering new movies?";
+"mailUs" = "Reach us from movie_fusion@fusion.com for your suggestions and complaints.";
+"invalidUrl" = "Invalid URL";
+"noMovieFound" = "No movie found";
+"dataConversionFailed" = "Data conversion failed";
+"unkownError" = "Unkown error";
+"noDataFound" = "No data found";
+"decodingError" = "Decoding error";
+"invalidResponse" = "Invalid response";

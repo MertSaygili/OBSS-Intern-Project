@@ -1,0 +1,76 @@
+/*
+  Localizable.strings
+  OBSS-Intern
+
+  Created by Mert Saygılı on 29.07.2024.
+  
+*/
+
+"hello" = "Merhaba!";
+"create" = "Oluştur";
+"moviesTitle" = "Filmler";
+"searchMovieTitle" = "Keşfet";
+"favoritesTitle" = "Favoriler";
+"profileTitle" = "Profil";
+"unkown" = "Bilinmiyor";
+"popularMovies" = "Popüler Filmler";
+"upcomingMovies" = "Vizyondaki Filmler";
+"hourShort" = "s";
+"minuteShort" = "dk";
+"cast" = "Oyuncular";
+"crew" = "Ekip";
+"recommendedMovies" = "Önerilen Fimler";
+"castMovie" = "Oyuncu Olduğu Filmler";
+"crewMovie" = "Ekip Üyesi Olduğu Filmler";
+"productionCompanies" = "Yapım Şirketleri";
+"detailPage" = "Detay sayfası";
+"urlNotFound" = "URL bulunamadı";
+"homePageNotFound" = "Detay sayfası bulunamadı";
+"favorites" = "Favorilerim";
+"searchTitle" = "Film Ara";
+"searchPlaceholder" = "Ara...";
+"profileTitle" = "Profil";
+"profileList" = "Listelerim";
+"createList" = "Yeni Liste Oluştur";
+"displayList" = "Listeleri Görüntüle";
+"deviceBrightness" = "Cihaz Teması";
+"deviceLanguage" = "Uygulama Dili";
+"generalTitle" = "Genel";
+"informationTitle" = "Bilgi";
+"contactUs" = "Bize Ulaş";
+"langaugeTitle" = "Dil";
+"cancel" = "İptal Et";
+"change" = "Değiştir";
+"changeLanguageTitle" = "Uygulama Dilini Değiştir";
+"changeLanguageMessage" = "Uygulama dilini %@ diline değiştirmek istediğinizden emin misiniz?";
+"english" = "İngilizce";
+"turkish" = "Türkçe";
+"chatBot" = "Film Chat Bot";
+"chatBotPrompt" = "Sen bir film botusun ve kullanıcılara film tavsiyeleri sunmak, film karakterleri hakkında bilgi vermek, filmlerle ilgili eğlenceli bilgiler paylaşmak ve film dünyasıyla ilgili soruları yanıtlamak için buradasın. Kullanıcıların ilgisini çekmek için önerilerini dikkatlice seç ve her zaman kibar, dostça ve yardımsever bir üslup kullan. Film türleri, yönetmenler, oyuncular, filmlerin yayın tarihleri gibi konularda bilgilendirici ve eğlenceli içerikler sağla. Kullanıcıların film keyfini artıracak önerilerde bulun.";
+"writeMessage" = "Mesajınızı yazın...";
+"send" = "Sor";
+"welcomeMessage" = "Merhaba! Ben film chat botu. Size nasıl yardımcı olabilirim?";
+"newSession" = "Yeni Oturum";
+"enterListName" = "Liste adını girin";
+"movieList" = "Film Listeleri";
+"movies" = "film";
+"listEmpty" = "Liste boş";
+"noCustomList" = "Özel liste bulunamadı";
+"delete" = "Sil";
+"deleteListTitle" = "Listeyi Sil";
+"deleteListMessage" = "Bu listeyi silmek istediğinizden emin misiniz?";
+"haveUWatchedThisMovie" = "Bu filmi izledin mi?";
+"uWillLikeThisMovie" = "Bu filmi beğeneceksin";
+"newMovieRecommendation" = "Yeni film önerisi";
+"thisMovieIsForYou" = "Bu film tam senlik";
+"recommendedMovie" = "Önerilen film";
+"moviesAreWaiting" = "Filmler seni bekliyor";
+"uDidNotEnterLongTime" = "Uzun zamandır girmemişsin. Yeni filmler keşfetmeye ne dersin?";
+"mailUs" = "movie_fusion@fusion.com adresinden bize ulaşabilirsiniz.";
+"invalidUrl" = "Geçersiz URL";
+"noMovieFound" = "Film bulunamadı";
+"dataConversionFailed" = "Veri dönüşümü başarısız oldu";
+"unkownError" = "Bilinmeyen hata";
+"noDataFound" = "Veri bulunamadı";
+"decodingError" = "Çözme hatası";
+"invalidResponse" = "Geçersiz yanıt";
