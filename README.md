@@ -1,5 +1,12 @@
 # OBSS INTERN - MOVIE DATABASE SWIFT APPLICATION
 
+# Packages
+#### - Kingfisher
+#### - Lottie
+#### - MessageKit
+#### - Realm, RealmDatabase
+
+# Application Screenshots
 <p align="center">
   <img src="readmeImages/image_1.png" height = "500" width = "22.5%"></img>
   <img src="readmeImages/image_2.png" height = "500" width = "22.5%"></img>
