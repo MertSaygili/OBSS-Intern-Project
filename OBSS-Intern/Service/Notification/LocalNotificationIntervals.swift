@@ -16,10 +16,10 @@ enum LocalNotificationIntervals {
 
     var timeInterval: TimeInterval {
         switch self {
-        case .thirtyMinute: return 10
+        case .thirtyMinute: return 20
         case .oneHour: return 60 * 60
         case .oneDay: return 24 * 60 * 60
-        case .threeDays: return 40
+        case .threeDays: return 24 * 60 * 60 * 3
         case .week: return 60 * 60 * 24 * 7
         }
     }
